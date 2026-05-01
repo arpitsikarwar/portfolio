@@ -91,9 +91,9 @@ function Header() {
           </li>
 
           <li>
-            <a>
+            <div>
               <ToggleSwitch />
-            </a>
+            </div>
           </li>
         </ul>
       </header>
